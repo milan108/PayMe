@@ -1,0 +1,22 @@
+.CheckoutForm {
+    width: 400px;
+    height: 100px;
+    padding: 40px;
+    margin:300px auto;
+    box-shadow: 1px 1px 2px;
+}
+
+.CheckoutForm button {
+    width: 80px;
+    height: 35px;
+    position: relative;
+    background-color: transparent;
+    border: 1.2px solid #7c7c7c;
+    border-radius: 50px;
+    color: #7c7c7c;
+    font-weight: 520;
+    font-size: 0.8em;
+    cursor: pointer;
+    overflow: hidden;
+    margin: 50px auto;
+}
